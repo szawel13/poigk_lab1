@@ -1,4 +1,5 @@
 # poigk_lab1
+![](Paweł%20Szałwiński%20198073%20ACIR%204A.gif)
 asteroids opp -> static car simulator oop  
 co udało mi się zrobić:  
 · zmiana tekstury statku na grafikę mojego zglebionego malucha  
