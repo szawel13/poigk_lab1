@@ -8,5 +8,5 @@ kolory
 · MainLightCol  
 · specularColor   
 · emissive  
-· refractionColor 
+· refractionColor  
 Paweł Szałwiński 198073 ACIR 4A  
