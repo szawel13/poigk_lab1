@@ -1,0 +1,70 @@
+{
+    "version": "2.0",
+    "syncInterval": 0,
+    "systemVars": {
+        "camera": {
+            "flySpeed": 0.5,
+            "startingCameraPos": [
+                -20.199012756347658,
+                -1.551325798034668,
+                -35.72502899169922
+            ],
+            "startingCameraAltitudeAzimuth": [
+                -0.005959773436188698,
+                5.923149585723877
+            ]
+        },
+        "ProjMtx_textureName": "Output"
+    },
+    "snapshot": {
+        "resourceViewNodeIndex": 2,
+        "resourceViewResourceIndex": 4,
+        "cameraPos": [
+            -20.199012756347658,
+            -1.551325798034668,
+            -35.72502899169922
+        ],
+        "cameraAltitudeAzimuth": [
+            -0.030180934816598893,
+            5.840671539306641
+        ],
+        "savedVariables": [
+            {
+                "name": "Scene",
+                "value": "6"
+            },
+            {
+                "name": "Reset",
+                "value": "false"
+            },
+            {
+                "name": "SkyboxBrightness",
+                "value": "0.000000"
+            },
+            {
+                "name": "MainLightPow",
+                "value": "100.000000"
+            },
+            {
+                "name": "MainLightCol",
+                "value": "0.000000,1.000000,1.000000"
+            },
+            {
+                "name": "specularColor",
+                "value": "1.000000,0.764706,0.000000"
+            },
+            {
+                "name": "emissive",
+                "value": "0.058823,1.000000,0.000000"
+            },
+            {
+                "name": "refractionColor",
+                "value": "1.000000,0.000000,0.000000"
+            },
+            {
+                "name": "specularChance",
+                "value": "0.000000"
+            }
+        ]
+    }
+}
